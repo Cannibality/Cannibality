@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-${\color{#5b2a2d}Cannibalistic}$⠀⠀<code>✞ ‿ ۪</code> ۫
+${\color{#3f4133}Cannibalistic}$⠀⠀<code>✞ ‿ ۪</code> ۫
 </p>
 
 
