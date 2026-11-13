@@ -15,4 +15,6 @@ ${\color{#576149}Clockwork}$⠀⠀<code>✞ ‿ ۪</code> ۫
 ${
 \textsf{
 \color{#E3E3E3} Got lazy.
+}
+  }$
 </p>
