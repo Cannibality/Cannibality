@@ -1,3 +1,4 @@
+<img width="1308" height="266" alt="1102678290063191238" src="https://github.com/user-attachments/assets/ac8f60fa-9d6f-4d18-a6d3-656b4b643056" />
 
 <p align="center">
 ${\color{#576149}Clockwork}$⠀⠀<code>✞ ‿ ۪</code> ۫
@@ -22,3 +23,5 @@ ${
 }
   }$
 </p>
+
+<img width="1308" height="266" alt="1102678290063191238" src="https://github.com/user-attachments/assets/045ae096-a71a-48fe-b336-44ae023fb5c4" />
